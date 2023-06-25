@@ -3,6 +3,7 @@ export COMET_ML_API_KEY="mdCtskYdEweIpXg1d67T2B02a"
 export COMET_ML_WORKSPACE="YOUR_COMET_ML_WORKSPACE"
 
 export CEREBRIUM_API_KEY="YOUR_CEREBRIUM_API_KEY"
+export PATH="/home/ejmpa/.local/bin:$PATH"
 
 # you set this after deploying the API for the first time
 export CEREBRIUM_ENDPOINT_URL="YOUR_CEREBRIUM_ENDPOINT_URL"
